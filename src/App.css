@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #00080a;
+}
+.img{
+  max-height: 25vh;
+}
+
+.like{
+  cursor: pointer;
+}
+.pokeName{
+  color: rgb(0, 17, 17);
+  background: #ffff;
+  border-radius: 0.3rem;
+  border-color: #001116;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
